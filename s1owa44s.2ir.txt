@@ -1,0 +1,52 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   1000 Bai/Day 1/Bai 10.c
+#	new file:   1000 Bai/Day 1/Bai 11_.c
+#	new file:   1000 Bai/Day 1/Bai 12_.c
+#	new file:   1000 Bai/Day 1/Bai 13_.c
+#	new file:   1000 Bai/Day 1/Bai 14_.c
+#	new file:   1000 Bai/Day 1/Bai 15_.c
+#	new file:   1000 Bai/Day 1/Bai 16_.c
+#	new file:   1000 Bai/Day 1/Bai 17_.c
+#	new file:   1000 Bai/Day 1/Bai 18_.c
+#	new file:   1000 Bai/Day 1/Bai 19_.c
+#	new file:   1000 Bai/Day 1/Bai 20_lietkeuocso.c
+#	new file:   1000 Bai/Day 1/Bai 21_tinhtongcacUocSo.c
+#	new file:   1000 Bai/Day 1/Bai 22_TinhTichCacUocSo.c
+#	new file:   1000 Bai/Day 1/Bai 23_DemUocSo.c
+#	new file:   1000 Bai/Day 1/Bai 24_Lietkeuocsole.c
+#	new file:   1000 Bai/Day 1/Bai 25_TongUocSoChan.c
+#	new file:   1000 Bai/Day 1/Bai 26_TichUocSoLe.c
+#	new file:   1000 Bai/Day 1/Bai 27_DemUocSOChan.c
+#	new file:   1000 Bai/Day 1/Bai 28_TinhTongCacSOnhoHonChinhNo.c
+#	new file:   1000 Bai/Day 1/Bai 29_UocLeLonNhat.c
+#	new file:   1000 Bai/Day 1/Bai 2_tongmu2.c
+#	new file:   1000 Bai/Day 1/Bai 30_SoHoanHao.c
+#	new file:   1000 Bai/Day 1/Bai 31_KTSOnguyento.c
+#	new file:   1000 Bai/Day 1/Bai 32_SoChinhPhuong.c
+#	new file:   1000 Bai/Day 1/Bai 33_TongNcanbac2.c
+#	new file:   1000 Bai/Day 1/Bai 34_.c
+#	new file:   1000 Bai/Day 1/Bai 35_.c
+#	new file:   1000 Bai/Day 1/Bai 36_.c
+#	new file:   1000 Bai/Day 1/Bai 37_.c
+#	new file:   1000 Bai/Day 1/Bai 38.c
+#	new file:   1000 Bai/Day 1/Bai 39_.c
+#	new file:   1000 Bai/Day 1/Bai 3_tong1trenn.c
+#	new file:   1000 Bai/Day 1/Bai 40_.c
+#	new file:   1000 Bai/Day 1/Bai 41_.c
+#	new file:   1000 Bai/Day 1/Bai 42_.c
+#	new file:   1000 Bai/Day 1/Bai 43_.c
+#	new file:   1000 Bai/Day 1/Bai 4_tong1tren2n.c
+#	new file:   1000 Bai/Day 1/Bai 5_tong1tren2n+1.c
+#	new file:   1000 Bai/Day 1/Bai 6_.c
+#	new file:   1000 Bai/Day 1/Bai 7_.c
+#	new file:   1000 Bai/Day 1/Bai 8_.c
+#	new file:   1000 Bai/Day 1/Bai 9_.c
+#	new file:   1000 Bai/Day 1/bai 1_tong 1-n.c
+#
+
